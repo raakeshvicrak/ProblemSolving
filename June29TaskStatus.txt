@@ -1,0 +1,9 @@
+Median of two sorted Array - http://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+LRU Cache - https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU
+3sum - solved it before, will do it again
+Rotate Image - solved it before but will do for inplace.
+
+Have gone through all problems, analysed it and understood them clearly.
+Got the efficient algorithm for all the problems and ready to start coding.
+Will be updating the repository with working code soon.
+Did not schdule the pramp call today, will do it from tomorrow.
